@@ -1,10 +1,11 @@
 .content__tag{
-    width: 1250px;
+    width: 90%;
+    max-width: 1500px;
     display: flex;
 }
 
 nav {
-    width: 1250px;
+    width: 90%;
     display: flex;
 }
 
@@ -23,7 +24,8 @@ ul {
 
 .relative{
     position: relative;
-     width: 1250px;
+    width: 90%;
+    max-width: 1500px;
 }
 
 
